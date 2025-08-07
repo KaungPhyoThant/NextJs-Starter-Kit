@@ -126,13 +126,6 @@ export default function MyComponent() {
 }
 ```
 
-## 📸 Screenshots
-
-<!-- Add screenshots of your application here -->
-![Dashboard Example](https://via.placeholder.com/800x450?text=Dashboard+Screenshot)
-
-![Authentication Screen](https://via.placeholder.com/800x450?text=Auth+Screen+Screenshot)
-
 ## 🛣️ Roadmap
 
 - [ ] Add internationalization (i18n) support
